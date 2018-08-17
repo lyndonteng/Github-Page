@@ -2,5 +2,5 @@
 # Hi there, I'm Lyndon!
 A budding Engineer, Pilot, bookworm.
 
-contact me at lyndon@live.com.sg
-or [my github] (https://github.com/lyndonteng)
+You can reach me at this [email](lyndon@live.com.sg)
+or check out [My Github](https://github.com/lyndonteng)

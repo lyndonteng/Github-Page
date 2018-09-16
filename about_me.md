@@ -1,1 +1,5 @@
-##lorem ipsum
+----
+layout: post
+----
+
+## lorem ipsum

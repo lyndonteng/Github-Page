@@ -2,6 +2,7 @@
 layout: post
 title: About Me
 author: Lyndon
+permalink: /about/
 ---
 
 ## First time introductions:

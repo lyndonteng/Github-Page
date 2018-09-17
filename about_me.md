@@ -9,7 +9,7 @@ permalink: /about/
 Hi! I'm a second year engineering undergraduate at the University of Cambridge, and I like to dabble in various things, but I take a keen interest in the intersection between AI, aviation, and automation.
 
 ## If you asked me about my background...
-My response would involve three countries, over a dozen homes, and you might probably still conclude, for simplicity's sake, that I am a Singaporean.
+My response would ionvolve three countries, over a dozen homes, and you might probably still conclude, for simplicity's sake, that I am a Singaporean.
 
 What I can say, however, is that my diverse experiences shaped my thinking growing up. I value holistic, global, big-picture thinking; I am curious in bridging cultural and geographical divides between engineering solutions. I remember coming back to Singapore and observing how technology such as reverse osmosis has been adapted to local needs, how aviation navigation has been revolutionised in the U.S. with ADS-B, and how design, product, and solutions often have to be adapted to meet local needs: glocalisation, in Geographers' jargon.
 
